@@ -5,22 +5,24 @@ nav#menu {padding:2vw; }
 .button { 
   border:2px; 
   border-style:solid;
-  border-color:White; 
+  border-color:WhiteSmoke; 
   padding:2vw; 
   background-color:SeaGreen; 
-  color:White; 
+  color:WhiteSmoke; 
   width:10%; 
   display:inline;
   border-radius: 20px;
  }
 /* This means: style ANY element that as an @class set to button, as in */
 /* <li class="button"> or <p class="button"> or <div class="button">. */
-
+section {
+  background-color:PaleGreen;
+  color:black;
+  font-family:arial, helvetica, sans-serif;
+}
 
 body {
-background-color: PaleGreen;
-color: Black;
-font-family: arial, helvetica, sans-serif;
+background-color: WhiteSmoke;
 }
 ol {list-style-type: lower-alpha;
 padding: 5em;
