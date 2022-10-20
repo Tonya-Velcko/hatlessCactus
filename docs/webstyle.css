@@ -28,3 +28,7 @@ ol {list-style-type: lower-alpha;
 padding: 5em;
     
 }
+iframe {
+  width:auto;
+  height:auto
+}
