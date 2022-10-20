@@ -29,6 +29,5 @@ padding: 5em;
     
 }
 iframe {
-  width:auto;
-  height:auto
+  max-width:100%;
 }
