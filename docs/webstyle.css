@@ -21,7 +21,7 @@ section {
   font-family:arial, helvetica, sans-serif;
 }
 embed {
-  width:80vw
+  width:80vw;height:auto
 }
 
 body {
