@@ -21,7 +21,9 @@ section {
   font-family:arial, helvetica, sans-serif;
 }
 embed {
-  width:80vw;height:auto
+  width:80vw;
+  height:auto;
+  display:center;
 }
 
 body {
