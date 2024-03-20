@@ -20,6 +20,9 @@ section {
   color:black;
   font-family:arial, helvetica, sans-serif;
 }
+embed {
+  width:80vw
+}
 
 body {
 background-color: WhiteSmoke;
