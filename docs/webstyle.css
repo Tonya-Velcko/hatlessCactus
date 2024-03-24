@@ -19,20 +19,24 @@ section {
   background-color:PaleGreen;
   color:black;
   font-family:arial, helvetica, sans-serif;
+  font-size: 12px;
 }
 embed {
   width:80vw;
   height:100vh;
 }
-
 body {
 background-color: WhiteSmoke;
 }
 ol {list-style-type: lower-alpha;
-padding: 5em;
-    
+padding: 5em;  
 }
-
 img {
   width:18px;
+}
+table {
+  padding:2vw;
+}
+td {
+  padding:2vw;
 }
