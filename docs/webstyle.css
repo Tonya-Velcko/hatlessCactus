@@ -19,6 +19,7 @@ section {
   background-color:PaleGreen;
   color:black;
   font-family:arial, helvetica, sans-serif;
+  padding:5em;
 }
 embed {
   width:80vw;
@@ -31,8 +32,8 @@ ol {list-style-type: lower-alpha;
 padding: 5em;  
 }
 table {
-  padding:2vw;
+  padding:2em;
 }
 td {
-  padding:2vw;
+  padding:2em;
 }
