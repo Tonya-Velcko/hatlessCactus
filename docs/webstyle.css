@@ -19,7 +19,10 @@ section {
   background-color:PaleGreen;
   color:black;
   font-family:arial, helvetica, sans-serif;
-  padding:5em;
+  border:5px;
+  border-style:solid;
+  border-color:WhiteSmoke;
+  padding:2em;
 }
 embed {
   width:80vw;
