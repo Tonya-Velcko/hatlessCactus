@@ -21,6 +21,13 @@ section {
   font-family:arial, helvetica, sans-serif;
   padding:5px;
 }
+div {
+  background-color:WhiteSmoke;
+  border:2px;
+  border-style:solid;
+  border-color:WhiteSmoke;
+  height:15%;
+}
 embed {
   width:80vw;
   height:100vh;
